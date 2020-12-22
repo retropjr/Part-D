@@ -10,7 +10,8 @@ public class Main {
 		System.out.println("My favourite colour is Green");
 		//3
 		System.out.println("My favourite mode of transportation is by rubbish truck");
-
+		//4
+		System.out.println("The best day of the week is rubbish collection day");
 	}
 
 }
